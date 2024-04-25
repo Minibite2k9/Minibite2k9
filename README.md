@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Minibite2k9
+- 👀 I’m interested in video games and robotics.
+- 🌱 I’m currently learning java
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have ADHD
