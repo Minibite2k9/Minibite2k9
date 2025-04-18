@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Minibite2k9
-- 👀 I’m interested in video games and robotics.
-- 🌱 I’m currently learning java
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have ADHD
+-  Hi, I’m @Minibite2k9
+-  Currently a high school student
+-  Digital portfolio: https://sites.google.com/lewispalmer.org/samuelhuntportfolio/home
+-  Languages: Java, Python.
